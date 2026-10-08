@@ -1,8 +1,12 @@
 {
   "name": "hubot-wisdom",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Store and retrieve quotes of 'wisdom' from the members of your chat.",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "src/"
+  ],
   "scripts": {
     "test": "mocha --verbose --exit \"test/**/*.test.js\" --reporter spec",
     "lint": "jshint src/*.js test/*.js"
