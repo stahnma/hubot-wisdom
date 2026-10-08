@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/stahnma/mandatoryFun/hubot-modules/hubot-wisdom"
+    "url": "git+https://github.com/stahnma/hubot-wisdom.git"
   },
   "keywords": [
     "hubot",
